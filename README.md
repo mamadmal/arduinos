@@ -1,2 +1,2 @@
-# Viking Thunder Clap 
+# arduinos
 turn on  a LED with Viking Thunder Clap ryhthem via Arduino.
